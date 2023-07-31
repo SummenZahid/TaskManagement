@@ -1,0 +1,17 @@
+.nav-parent{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.nav-p{
+    font-size: 20px;
+    color: white;
+    font-weight: 700;
+}
+.logoutbtn{
+    border: none;
+    height: 35px;
+    border-radius: 3px;
+    background: #17a2b8;
+    color: white;
+}
